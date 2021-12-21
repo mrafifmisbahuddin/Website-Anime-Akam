@@ -56,3 +56,48 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 /* Akhir Navbar */
+
+/* Section Home */
+section {
+  margin: auto;
+  display: flex;
+  margin-bottom: 50px;
+}
+.kolom {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 16px;
+}
+.kolom .deskripsi {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "comic sans ms";
+  color: #364f6b;
+}
+h2 {
+  font-family: "comic sans ms";
+  font-weight: 800;
+  font-size: 45px;
+  margin-bottom: 20px;
+  color: #364f6b;
+  width: 100%;
+  line-height: 50px;
+}
+a.tbl-biru {
+  background: #3f72af;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 15px 20px 15px 20px;
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: bold;
+  text-decoration: none;
+}
+a.tbl-biru:hover {
+  background: #fc5185;
+}
+p {
+  margin: 10px 0 10px 0;
+  padding: 10px 0 10px 0;
+}
+/* Section Home */
